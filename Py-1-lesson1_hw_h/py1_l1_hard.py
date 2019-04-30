@@ -2,9 +2,6 @@
 # PEP-8
 # Python-1-lesson1-hard Task 1
 
-vera = 10 ** 4
-verb = 10.1
-verc = False
 print('\tMedical form, please fill it out:\n')
 name = input ('\tYour name: ')
 surname = input('\tYour surname: ')
