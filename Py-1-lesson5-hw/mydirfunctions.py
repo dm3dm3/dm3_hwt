@@ -1,6 +1,5 @@
 # coding : utf-8
 # PEP-8
-# Python-1-lesson5-easy Task 3
 
 import sys
 import os
@@ -126,9 +125,7 @@ def cd_name(dir_name):
         print('директория {} отсутствует'.format(dir_name))
 
 
+# Для проверок локально ТОЛЬКО
 if __name__ == '__main__':
     print('sys.argv = ', sys.argv)
     print('8-' * 20 + '8')
-
-
-
